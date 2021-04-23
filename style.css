@@ -1,0 +1,18 @@
+#grid-mode,
+#list-mode {
+  cursor: pointer;
+}
+/* #grid-mode {
+  color: #bbb;
+} */
+.gray {
+  color: #bbb;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+.heart {
+  pointer-events: none;
+}
