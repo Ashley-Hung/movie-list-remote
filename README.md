@@ -1,7 +1,10 @@
 # Movie List
 A simple web application for movie fanatic
 
+[Demo web page](https://ashley-hung.github.io/movie-list-remote/)
+
 ## Features
+
 - listing movies from movie api
 - searching movies by title
 - add movies to your favorite list
